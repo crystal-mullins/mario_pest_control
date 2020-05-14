@@ -1,0 +1,14 @@
+Git Branching Pushing in the Terminal:
+
+List Branches in Repo:
+
+git branch
+
+Switch to a Branch:
+
+git checkout -b <Your Branch Name>
+
+Push to Git:
+
+git push --set-upstream origin <Your Branch Name>
+

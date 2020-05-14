@@ -1,5 +1,47 @@
+* {
+    margin: 15px;
+}
+
 #heading{
-    color: red;
+    color: firebrick;
+    text-align: center;
+}
 
+#main {
+    text-align: center;
+}
 
+input {
+    height: 30px;
+    width: 150px;
+    margin: 0 45px 0 0;
+    border: 1px solid black;  
+}
+
+button {
+    border: 1px solid black;
+}
+
+#button1 {
+    height: 40px;
+    width: 65px;
+    margin: 20px;
+    margin-right: 60px;
+    background: darkgray;
+    border: 1px solid black;
+}
+
+.label111 {
+    padding-right: 50px;
+    color: firebrick;
+}
+
+.label11 {
+    padding-right: 25px;
+    color: firebrick;
+}
+
+.label1 {
+    padding-right: 30px;
+    color: firebrick;
 }
