@@ -1,11 +1,17 @@
+/* Global Settings */
+
 * {
     margin: 15px;
 }
+
+/* Header */
 
 #heading{
     color: firebrick;
     text-align: center;
 }
+
+/* Main Section (Form Section) */
 
 #main {
     text-align: center;
