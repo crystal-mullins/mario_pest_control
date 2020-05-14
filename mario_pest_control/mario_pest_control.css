@@ -1,8 +1,16 @@
+
+html {
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: white;
+}
+
+
 #heading{
     color: red;
     background-color: black;
+    font-size: 35px;
 }
 
-html {
-    background-color: grey;
-}
+
