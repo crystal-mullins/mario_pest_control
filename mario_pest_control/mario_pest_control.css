@@ -11,6 +11,21 @@
     text-align: center;
 }
 
+.label1 {
+    padding-right: 30px;
+    color: firebrick;
+}
+
+.label11 {
+    padding-right: 25px;
+    color: firebrick;
+}
+
+.label111 {
+    padding-right: 50px;
+    color: firebrick;
+}
+
 input {
     height: 30px;
     width: 150px;
@@ -31,17 +46,4 @@ button {
     border: 1px solid black;
 }
 
-.label111 {
-    padding-right: 50px;
-    color: firebrick;
-}
 
-.label11 {
-    padding-right: 25px;
-    color: firebrick;
-}
-
-.label1 {
-    padding-right: 30px;
-    color: firebrick;
-}

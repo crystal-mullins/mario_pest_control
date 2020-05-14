@@ -1,8 +1,8 @@
-// mario pest control
-
 // Goombas: 5 Coins
 // Bob-ombs: 7 Coins
 // Cheep-cheeps: 11 Coins
+
+// Submit Button Function
 
 let button = document.getElementById('button1');
 
@@ -23,6 +23,8 @@ total.textContent = a1 + b1 + c1;
 document.getElementById('form1').appendChild(total1);
 document.getElementById('form1').appendChild(total);
 }
+
+// Reset Button & Function
 
 let button2 = document.createElement('button');
 button2.textContent = "Reset Form";
